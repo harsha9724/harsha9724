@@ -1,6 +1,6 @@
 
 # Hi, I'm Harsha! 👋
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=A+Self+taught+Backend+Developer+!!;A+Technical+Mentor!!;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=A+Self+taught+Full+Stack+Developer+!!;A+Technical+Mentor!!;)
 
 🚀 **Full-Stack Developer**  
 📍 **Based in India**
